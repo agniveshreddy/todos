@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import Tabs from 'react-bootstrap/Tabs';
+import Tab from 'react-bootstrap/Tab';
+import Users from 'components/Users';
+
+const users =['Hans Zimbber', 'Bruce Wayne']
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Tabs defaultActiveKey="users" variant="tabs">
+        <Tab eventKey='users' title='Users'>
+          <Users users={users}/>
+        </Tab>
+        <Tab eventKey="todos" title='Todos'>
+          Todos
+        </Tab>
+      </Tabs>
     </div>
   );
 }
