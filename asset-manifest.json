@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agniveshreddy/todos/static/css/main.5f361e03.chunk.css",
+    "main.js": "/agniveshreddy/todos/static/js/main.f3676931.chunk.js",
+    "main.js.map": "/agniveshreddy/todos/static/js/main.f3676931.chunk.js.map",
+    "runtime-main.js": "/agniveshreddy/todos/static/js/runtime-main.29169399.js",
+    "runtime-main.js.map": "/agniveshreddy/todos/static/js/runtime-main.29169399.js.map",
+    "static/js/2.119fa096.chunk.js": "/agniveshreddy/todos/static/js/2.119fa096.chunk.js",
+    "static/js/2.119fa096.chunk.js.map": "/agniveshreddy/todos/static/js/2.119fa096.chunk.js.map",
+    "index.html": "/agniveshreddy/todos/index.html",
+    "precache-manifest.2aa5d4be9be61cb387fa7cbab1d08dd7.js": "/agniveshreddy/todos/precache-manifest.2aa5d4be9be61cb387fa7cbab1d08dd7.js",
+    "service-worker.js": "/agniveshreddy/todos/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/agniveshreddy/todos/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.119fa096.chunk.js.LICENSE.txt": "/agniveshreddy/todos/static/js/2.119fa096.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/agniveshreddy/todos/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29169399.js",
+    "static/js/2.119fa096.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f3676931.chunk.js"
+  ]
+}
