@@ -1,3 +1,3 @@
-import TOdoModal from './TOdoModal.jsx';
+import TodoModal from './TodoModal.jsx';
 
-export default TOdoModal;
+export default TodoModal;

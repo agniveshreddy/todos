@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Tabs defaultActiveKey="users" variant="tabs">
         <Tab eventKey='users' title='Users'>
-          <Users users={users}/>
+          <Users />
         </Tab>
         <Tab eventKey="todos" title='Todos'>
           Todos
